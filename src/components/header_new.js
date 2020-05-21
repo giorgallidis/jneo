@@ -1,3 +1,5 @@
+import { Link } from "gatsby"
+import PropTypes from "prop-types"
 import React, {useState} from "react"
 import {FaTwitterSquare, FaYoutube, FaLinkedinIn} from 'react-icons/fa'
 import Logo from './logo'
@@ -10,7 +12,7 @@ const toggleTrueFalse = () => setToggled(!isToggled);
 return(  
 <>
 <div id="canvasWrapper">
-<div id="canvas">
+<div id="canvas" style={{padding: '37px'}}>
 <div id="mobileNav" className={isToggled? 'menu-open' : ''} style={{height: isToggled ? '378px' : '0px'}}>
    <div className="wrapper">
       <nav className="main-nav mobile-nav">
@@ -51,10 +53,10 @@ return(
          </nav>
       </div>
       <div id="logo" data-content-field="site-title">
-         <div className="site-title" data-shrink-original-size="18">
-            <a href="/" aria-label="home">
+         <div className="site-title" data-shrink-original-size="18" style={{letterSpacing: '0.166667em', fontSize: '18px'}}>
+            <Link to="/">
               <Logo/>
-            </a>
+            </Link>
          </div>
          
       </div>
@@ -90,19 +92,19 @@ return(
       </div>
       <div id="footerBlocks-2" className="social-links sqs-svg-icon--list" data-content-field="connected-accounts">
          
-         <a href="https://twitter.com/" title="twitter" aria-label="twitter" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://twitter.com/" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaTwitterSquare />
             </div>
          </a>
 
-         <a href="https://youtube.com/" title="youtube" aria-label="youtube" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper youtube" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://youtube.com/" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper youtube" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaYoutube />
             </div>
          </a>
 
-         <a href="https://linkedin.com/" title="linkedin" aria-label="linkedin" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper linkedin" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://linkedin.com/" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper linkedin" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaLinkedinIn />
             </div>
