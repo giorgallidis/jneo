@@ -61,16 +61,16 @@ return(
       <div id="topNav" data-content-field="navigation">
          <nav id="secondaryNavigation" className="main-nav dropdown-click desktop-nav">
             <ul>
-               <li className="page-collection">
+               <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/essays">Essays</a>
                </li>
-               <li className="page-collection">
+               <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/projects">Projects</a>
                </li>
-               <li className="page-collection">
+               <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/causes">Causes</a>
                </li>
-               <li className="page-collection">
+               <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/giveaways">Giveaways</a>
                </li>
             </ul>
@@ -90,19 +90,19 @@ return(
       </div>
       <div id="footerBlocks-2" className="social-links sqs-svg-icon--list" data-content-field="connected-accounts">
          
-         <a href="https://twitter.com/" title="twitter" aria-label="twitter" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://twitter.com/" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaTwitterSquare />
             </div>
          </a>
 
-         <a href="https://youtube.com/" title="youtube" aria-label="youtube" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper youtube" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://youtube.com/" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper youtube" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaYoutube />
             </div>
          </a>
 
-         <a href="https://linkedin.com/" title="linkedin" aria-label="linkedin" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper linkedin" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://linkedin.com/" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper linkedin" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaLinkedinIn />
             </div>
