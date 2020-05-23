@@ -35,7 +35,7 @@ return(
                 <a href="/giveaways">Giveaways</a>
              </li>
              <li className=" external-link">
-               <a href="/newsletter">Newsletter</a>
+               <a href="https://jurgen.substack.com/">Newsletter</a>
             </li>
          </ul>
       </nav>
