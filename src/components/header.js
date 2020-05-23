@@ -78,7 +78,7 @@ return(
          <nav id="mainNavigation" className="main-nav dropdown-click desktop-nav">
             <ul>
                <li className=" external-link">
-                  <a href="/newsletter"><b>Newsletter</b></a>
+                  <a href="https://jurgen.substack.com/"><b>Newsletter</b></a>
                </li>
             </ul>
          </nav>
@@ -90,7 +90,7 @@ return(
       </div>
       <div id="footerBlocks-2" className="social-links sqs-svg-icon--list" data-content-field="connected-accounts">
          
-         <a href="https://twitter.com/" title="twitter" aria-label="twitter" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://twitter.com/georgall" title="twitter" aria-label="twitter" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaTwitterSquare />
             </div>
@@ -102,7 +102,7 @@ return(
             </div>
          </a>
 
-         <a href="https://linkedin.com/" title="linkedin" aria-label="linkedin" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper linkedin" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://www.linkedin.com/in/george-georgallides/" title="linkedin" aria-label="linkedin" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper linkedin" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaLinkedinIn />
             </div>
