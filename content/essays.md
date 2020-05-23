@@ -9,7 +9,7 @@ category: essay
 
 # Essays
 
-![Man sawing](../../images/img_1.jpg)
+<!--![Man sawing](../../images/img_1.jpg)
 
 [**Essay 1**](/essay1) 
 
