@@ -1,5 +1,5 @@
 import React from 'react';
-import Image from './image'
+import Image from './1500x500'
 
 const Emoji = props => (
   <span
