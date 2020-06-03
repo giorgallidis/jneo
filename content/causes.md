@@ -9,7 +9,7 @@ category: causes
 
 # Causes
 
-<!--![Man sawing](../../images/img_1.jpg)-->
+[Man sawing](../../images/img_1.jpg)
 
 [**Cause 1**](/cause1) 
 
