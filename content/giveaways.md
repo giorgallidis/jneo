@@ -9,7 +9,7 @@ category: giveaways
 
 # Giveaways
 
-<!--![Man sawing](../../images/img_1.jpg)-->
+[Man sawing](../../images/img_1.jpg)
 
 [**Giveaway 1**](/giveaway1) 
 
