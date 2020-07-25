@@ -1,15 +1,13 @@
 ---
-title: 'Lorem Ipsum'
+title: 'Causes'
 date: 2020-02-25T12:18:00.000Z
-description: Lorem Ipsum?
-author: Stefan
+description: Causes I actively support
+author: Jurgen
 featuredImage: ../../images/img_2.jpg
 category: causes
 ---
 
 # Causes
-
-[Man sawing](../../images/img_1.jpg)
 
 [**Cause 1**](/cause1) 
 
