@@ -54,7 +54,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `logo.png`, // This path is relative to the root of the site.
+        icon: `${__dirname}/src/images/logo.png`, // This path is relative to the root of the site.
       },
     },
     {
@@ -74,7 +74,7 @@ module.exports = {
         // purgeOnly : ['components/', '/main.css', 'bootstrap/'], // Purge only these files/folders
       }
     },*/
-    `gatsby-plugin-preact`,
+    //gatsby-plugin-preact`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
