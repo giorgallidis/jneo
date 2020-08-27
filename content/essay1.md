@@ -7,7 +7,7 @@ featuredImage: ../../images/img_2.jpg
 category: essay
 ---
 
-#Essay 1
+#The Autotelic Founder
 
 As a founder, building a product should bring you joy. In the past two months, I found myself dealing with two states of mind:
 Last month: De-motivated & un-engaged with work
