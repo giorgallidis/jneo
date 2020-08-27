@@ -13,6 +13,6 @@ category: essay
 
 [**The Autotelic Founder**](/essay1) 
 
-[**Essay 2**](/essay2)  
+[**Do-ism: Process driven planning**](/essay2)  
 
 [**Essay 3**](/essay3)  
