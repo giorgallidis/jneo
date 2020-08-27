@@ -9,8 +9,6 @@ category: essay
 
 # Essays
 
-[Man sawing](../../images/img_1.jpg)
-
 [**The Autotelic Founder**](/essay1) 
 
 [**Do-ism: Process driven planning**](/essay2)  
