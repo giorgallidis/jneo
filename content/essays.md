@@ -11,7 +11,7 @@ category: essay
 
 [Man sawing](../../images/img_1.jpg)
 
-[**Essay 1**](/essay1) 
+[**The Autotelic Founder**](/essay1) 
 
 [**Essay 2**](/essay2)  
 
