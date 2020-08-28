@@ -1,4 +1,3 @@
-
 ---
 title: 'Exhibitions'
 date: 2020-02-25T12:18:00.000Z
