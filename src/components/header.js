@@ -29,7 +29,13 @@ return(
                 <a href="/projects">Projects</a>
              </li>
              <li className="page-collection">
+               <a href="/causes">Exhibitions</a>
+             </li>
+             <li className="page-collection">
                 <a href="/causes">Causes</a>
+             </li>
+             <li className="page-collection">
+               <a href="/causes">Awards</a>
              </li>
              <li className="page-collection">
                 <a href="/giveaways">Giveaways</a>
@@ -68,7 +74,13 @@ return(
                   <a href="/projects">Projects</a>
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
+                  <a href="/projects">Exhibitions</a>
+               </li>
+               <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/causes">Causes</a>
+               </li>
+               <li className="page-collection" style={{marginBottom: '0px'}}>
+                  <a href="/causes">Awards</a>
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/giveaways">Giveaways</a>
@@ -90,7 +102,7 @@ return(
       </div>
       <div id="footerBlocks-2" className="social-links sqs-svg-icon--list" data-content-field="connected-accounts">
          
-         <a href="https://twitter.com/georgall" title="twitter" aria-label="twitter" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
+         <a href="https://twitter.com/thejurgen" title="twitter" aria-label="twitter" target="_blank" rel="noreferrer" className="sqs-svg-icon--wrapper twitter" style={{color: 'black', borderRadius: '0px'}}>
             <div>
               <FaTwitterSquare />
             </div>
