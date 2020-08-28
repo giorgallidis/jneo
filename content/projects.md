@@ -28,9 +28,7 @@ category: project
 
 [**Chronos**](/project9)
 
-[**Chronos**](/project10)
-
-[**Phantom Robots**](/project11)
+[**Phantom Robots**](/project10)
 
 
 
