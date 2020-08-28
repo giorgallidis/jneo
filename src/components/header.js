@@ -29,13 +29,13 @@ return(
                 <a href="/projects">Projects</a>
              </li>
              <li className="page-collection">
-               <a href="/causes">Exhibitions</a>
+               <a href="/exhibitions">Exhibitions</a>
              </li>
              <li className="page-collection">
                 <a href="/causes">Causes</a>
              </li>
              <li className="page-collection">
-               <a href="/causes">Awards</a>
+               <a href="/awards">Awards</a>
              </li>
              <li className="page-collection">
                 <a href="/giveaways">Giveaways</a>
@@ -74,13 +74,13 @@ return(
                   <a href="/projects">Projects</a>
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/projects">Exhibitions</a>
+                  <a href="/exhibitions">Exhibitions</a>
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/causes">Causes</a>
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/causes">Awards</a>
+                  <a href="/awards">Awards</a>
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/giveaways">Giveaways</a>
