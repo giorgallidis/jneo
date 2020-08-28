@@ -9,8 +9,6 @@ category: giveaways
 
 # Giveaways
 
-[Man sawing](../../images/img_1.jpg)
-
 [**Giveaway 1**](/giveaway1) 
 
 [**Giveaway 2**](/giveaway2)  
