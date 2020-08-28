@@ -9,8 +9,6 @@ category: project
 
 #Projects
 
-[Man sawing](../../images/img_1.jpg)
-
 
 [**Project 1**](/project1)  
 
