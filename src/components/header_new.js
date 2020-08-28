@@ -30,8 +30,14 @@ return(
              <li className="page-collection">
                 <a href="/projects">Projects</a>
              </li>
+            <li className="page-collection">
+                <a href="/projects">Exhibitions</a>
+             </li>
              <li className="page-collection">
                 <a href="/causes">Causes</a>
+             </li>
+            <li className="page-collection">
+                <a href="/projects">Awards</a>
              </li>
              <li className="page-collection">
                 <a href="/giveaways">Giveaways</a>
@@ -70,7 +76,13 @@ return(
                   <a href="/projects">Projects</a>
                </li>
                <li className="page-collection">
+                  <a href="/projects">Exhibitions</a>
+               </li>
+               <li className="page-collection">
                   <a href="/causes">Causes</a>
+               </li>
+               <li className="page-collection">
+                  <a href="/projects">Awards</a>
                </li>
                <li className="page-collection">
                   <a href="/giveaways">Giveaways</a>
