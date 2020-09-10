@@ -32,6 +32,9 @@ return(
                <a href="/exhibitions">Exhibitions</a>
              </li>
              <li className="page-collection">
+               <a href="/patents">Patents</a>
+             </li>
+             <li className="page-collection">
                 <a href="/causes">Causes</a>
              </li>
              <li className="page-collection">
@@ -75,6 +78,9 @@ return(
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/exhibitions">Exhibitions</a>
+               </li>
+               <li className="page-collection" style={{marginBottom: '0px'}}>
+                  <a href="/patents">Patents</a>
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/causes">Causes</a>
