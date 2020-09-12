@@ -9,7 +9,7 @@ category: causes
 
 # Exhibitions
 
-[**Icarus 1**](/icarus1) 
+[Icarus 1](/icarus1) 
 
-[**Icarus 2**](/icarus2)  
+[Icarus 2](/icarus2)  
 
