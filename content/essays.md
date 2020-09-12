@@ -9,8 +9,8 @@ category: essay
 
 # Essays
 
-[**The Autotelic Founder**](/essay1) 
+[The Autotelic Founder](/essay1) 
 
-[**Do-ism: Process driven planning**](/essay2)  
+[Do-ism: Process driven planning](/essay2)  
 
-[**Essay 3**](/essay3)  
+[Essay 3](/essay3)  
