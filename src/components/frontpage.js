@@ -34,11 +34,11 @@ const Frontpage = () => (
                   </div>
                   <div className="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_48_1424560397197_11109">
                      <div className="sqs-block-content">
-                        <pre><code><Emoji label="rocket" symbol="🚀" /> I apply material engineering, data science, biology and design thinking to make things that have the potential to make life better for humans. Check out some my current and upcoming projects over at Dedalos. </code></pre>
-                        <pre><code><Emoji label="backpack" symbol="🎨" /> I also apply those same principles to make art that inspires humans to be better and do more. Check out some in Projects. </code></pre>
-                        <pre><code><Emoji label="moneybag" symbol="🔬" />  I like doing research on human performance, longevity and disease prevention. You can read short blurps about that on Twitter or in longer form in the Essays section. You can also sign up for my newsletter to stay up to date when I post something new. </code></pre>
-                        <pre><code><Emoji label="one hundred" symbol="📕" />  My research has led me to publish a book HealBook.club among other things. </code></pre>
-                        <pre><code><Emoji label="handwriting" symbol="🎗️" />  I support causes that support environmental, humanitarian and animal interests among other things. You can read more about it in Causes. </code></pre>
+                        <pre><code><Emoji label="rocket" symbol="🚀" /> I'm a founder/partner in companies that apply material engineering, data science, biology and design thinking to build things that have the potential to make life better for humans. Check out some my current and upcoming Projects. </code></pre>
+                        <pre><code><Emoji label="backpack" symbol="🎨" /> I like to apply those same principles to create art that inspire a better future. Check out my Exhibitions. </code></pre>
+                        <pre><code><Emoji label="moneybag" symbol="🔬" />  I also enjoy doing research on human performance, longevity and disease prevention. You can read short blurps about that on my Twitter or in my longer form Essays. You can also sign up for my Newsletter to stay up to date when I post something new. </code></pre>
+                        <pre><code><Emoji label="one hundred" symbol="📕" />  I've been lucky to have collaborated with some amazing minds in their respective industries on a few Publications </code></pre>
+                        <pre><code><Emoji label="handwriting" symbol="🎗️" />  I support Causes that support environmental, humanitarian and animal interests among other things. </code></pre>
                         <pre><code><Emoji label="statue of liberty" symbol="📥" />  Give me a shout if you are interested in working with me on a project.  </code></pre>
                      </div>
                   </div>
