@@ -10,25 +10,25 @@ category: project
 #Projects
 
 
-[**Dedalos**](/project1)  
+[Dedalos](/project1)  
 
-[**Rapidcov**](/project2)  
+[Rapidcov](/project2)  
 
-[**Protosome**](/project3)  
+[Protosome](/project3)  
 
-[**Levecore**](/project4)
+[Levecore](/project4)
 
-[**Feous**](/project5)
+[Feous](/project5)
 
-[**Bettr Health**](/project6)
+[Bettr Health](/project6)
 
-[**Dotee**](/project7)
+[Dotee](/project7)
 
-[**GoMoki**](/project8)
+[GoMoki](/project8)
 
-[**Chronos**](/project9)
+[Chronos](/project9)
 
-[**Phantom Robots**](/project10)
+[Phantom Robots](/project10)
 
 
 
