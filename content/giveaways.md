@@ -9,7 +9,7 @@ category: giveaways
 
 # Giveaways
 
-[**Giveaway 1**](/giveaway1) 
+[Giveaway 1](/giveaway1) // twitter links
 
-[**Giveaway 2**](/giveaway2)  
+[Giveaway 2](/giveaway2)  
 
