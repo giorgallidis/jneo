@@ -34,11 +34,11 @@ const Frontpage = () => (
                   </div>
                   <div className="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_48_1424560397197_11109">
                      <div className="sqs-block-content">
-                        <pre><code><Emoji label="rocket" symbol="🚀" /> I'm a founder/partner in companies that apply material engineering, data science, biology and design thinking to build things that have the potential to make life better for humans. Check out some my current and upcoming Projects. </code></pre>
-                        <pre><code><Emoji label="backpack" symbol="🎨" /> I like to apply those same principles to create art that inspire a better future. Check out my Exhibitions. </code></pre>
-                        <pre><code><Emoji label="moneybag" symbol="🔬" />  I also enjoy doing research on human performance, longevity and disease prevention. You can read short blurps about that on my Twitter or in my longer form Essays. You can also sign up for my Newsletter to stay up to date when I post something new. </code></pre>
-                        <pre><code><Emoji label="one hundred" symbol="📕" />  I've been lucky to have collaborated with some amazing minds in their respective industries on a few Publications </code></pre>
-                        <pre><code><Emoji label="handwriting" symbol="🎗️" />  I support Causes that support environmental, humanitarian and animal interests among other things. </code></pre>
+                        <pre><code><Emoji label="rocket" symbol="🚀" /> I'm a founder/partner in companies that apply material engineering, data science, biology and design thinking to build things that have the potential to make life better for humans. Check out some my current and upcoming <a href="/projects">projects</a>. </code></pre>
+                        <pre><code><Emoji label="backpack" symbol="🎨" /> I like to apply those same principles to create art that inspire a better future. Check out my <a href="/exhibitions">exhibitions</a>. </code></pre>
+                        <pre><code><Emoji label="moneybag" symbol="🔬" />  I also enjoy doing research on human performance, longevity and disease prevention. You can read short blurps about that on my <a href="https://www.twitter.com/thejurgen">Twitter</a> or in my longer form <a href="/essays">essays</a>. You can also sign up for my <a href="https://jurgen.substack.com">Newsletter</a> to stay up to date when I post something new. </code></pre>
+                        <pre><code><Emoji label="one hundred" symbol="📕" />  I've been lucky to have collaborated with some amazing minds in their respective industries on a few <a href="/publications">Publications</a>. </code></pre>
+                        <pre><code><Emoji label="handwriting" symbol="🎗️" />  I support <a href="/causes">causes</a> that support environmental, humanitarian and animal interests among other things. </code></pre>
                         <pre><code><Emoji label="statue of liberty" symbol="📥" />  Give me a shout if you are interested in working with me on a project: 103 101 111 114 103 97 108 108 64 112 109 46 109 101 </code></pre>
                      </div>
                   </div>
