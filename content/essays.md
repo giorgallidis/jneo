@@ -13,4 +13,4 @@ category: essay
 
 [Do-ism: Process driven planning](/essay2)  
 
-[Essay 3](/essay3)  
+[How to End this (and future) pandemic(s)](/essay3)  
