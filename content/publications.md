@@ -9,5 +9,11 @@ category: publications
 
 # Publications
 
+[Heal book](/project1)  
 
+[Learning system](/project2)  
+
+[Rapid prototyping system](/project3)
+
+[Google Scholar profile](/project3)  
 
