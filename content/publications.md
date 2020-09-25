@@ -13,7 +13,7 @@ category: publications
 
 [Learning system](/project2)  
 
-<a href="https://www.notion.so/Problem-Discovery-Definition-Pre-Idea-5a7cd074d9fa4404bd5d4deb0c669611">[Rapid prototyping system]</a>
+<a href="https://www.notion.so/Rapid-Prototyping-System-020149df896049a4b9ab05f868901b55">Rapid prototyping system</a>
 
 [Google Scholar profile](/project3)  
 
