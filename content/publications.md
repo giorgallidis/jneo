@@ -13,7 +13,7 @@ category: publications
 
 [Learning system](/project2)  
 
-[Rapid prototyping system](/project3)
+[Rapid prototyping system](/https://www.notion.so/Problem-Discovery-Definition-Pre-Idea-5a7cd074d9fa4404bd5d4deb0c669611)
 
 [Google Scholar profile](/project3)  
 
