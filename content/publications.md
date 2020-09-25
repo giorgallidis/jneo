@@ -15,5 +15,5 @@ category: publications
 
 <a href="https://www.notion.so/Rapid-Prototyping-System-020149df896049a4b9ab05f868901b55">Rapid prototyping system</a>
 
-[Google Scholar profile](/project3)  
+//[Google Scholar profile](/project3)  // 
 
