@@ -14,3 +14,10 @@ category: essay
 [Do-ism: Process driven planning](/essay2)  
 
 [How to End this (and future) pandemic(s)](/essay3)  
+
+[Are we inherently evil?](/essay4)  
+
+[Intuition is the ultimate mastery](/essay5)
+
+[Our personal simulation](/essay6)  
+
