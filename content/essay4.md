@@ -10,6 +10,7 @@ category: essay
 ## Are we inherently evil? 
 ---
 
+![Evil](../../images/evil.jpg)
 
 A simple question to understand the nature of humanity yet a very consequential one. This may seem like a throwback to the Original Sin, but in an era where we are looking to maximize human lifespan and our footprint on Earth and across our solar system, it's a question worth asking. To come down unequivocally on one side of this debate might seem rather naïve, the mark of someone who has failed to grasp the messy reality of the human condition; that we are complex creatures capable of both good and evil. But it is very clear that our judgements about the societies in which we live are greatly shaped by underlying visions of human nature and the political possibilities that these visions entail. And these judgements define humanity's pursuits in ways that could hinder our ability to evolve fast enough to salvage our species. 
 
