@@ -9,7 +9,7 @@ category: publications
 
 # Publications
 
-[Heal book](/project1)  
+[Anti-burnout book](/project1)  
 
 [Learning system](/project2)  
 
