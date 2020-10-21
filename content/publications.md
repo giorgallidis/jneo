@@ -24,7 +24,7 @@ category: publications
 # Longevity Metas
 ** continuously updated **
 
-<a href="https://www.notion.so/thejurgen/eb732b0e9a304a5ba603f834a9f2a11e?v=da822035903c48d99f34918c1b347aa2">Longevity Known Variables (A Meta analysis)</a>
+<a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity Known Variables (A Meta analysis)</a>
 
 <!--[Learning system](/project2)-->
 
