@@ -8,6 +8,7 @@ category: publications
 ---
 
 # Publications
+** intermittently updated **
 
 [Heal Interactive Book](/publication1)    
 
@@ -23,7 +24,7 @@ category: publications
 
 
 # Longevity Metas
-** continuously updated **
+** intermittently updated **
 
 <a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity Known Variables (A Meta analysis)</a>
 
