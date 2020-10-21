@@ -9,15 +9,28 @@ category: essay
 
 # Essays
 
-[The Autotelic Founder](/essay1) 
+<!--[The Autotelic Founder](/essay1) -->
 
-[Do-ism: Process driven planning](/essay2)  
+<!--[Do-ism: Process driven planning](/essay2)  
 
 [How to End this (and future) pandemic(s)](/essay3)  
+
+[Dark Health Economies](/essay7)
 
 [Are we inherently evil?](/essay4)  
 
 [Intuition is the ultimate mastery](/essay5)
 
 [Our personal simulation](/essay6)  
+
+[Cyborg-ing 2020](/essay8) 
+
+[Hypochondriacism](/essay9)
+
+[Life expectancy in the 21st century](/essay10)
+
+
+
+
+
 
