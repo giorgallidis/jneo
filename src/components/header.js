@@ -31,18 +31,18 @@ return(
              <li className="page-collection">
                 <a href="/projects">Projects</a>
              </li>
-             <li className="page-collection">
+             //<li className="page-collection">
                <a href="/patents">Patents</a>
-             </li>
-            <li className="page-collection">
+             </li>//
+            //<li className="page-collection">
                <a href="/exhibitions">Exhibitions</a>
-             </li>
+             </li>//
              <li className="page-collection">
                 <a href="/causes">Causes</a>
              </li>
-             <li className="page-collection">
+             //<li className="page-collection">
                <a href="/awards">Awards</a>
-             </li>
+             </li>//
              <li className="page-collection">
                 <a href="/giveaways">Giveaways</a>
              </li>
@@ -82,17 +82,17 @@ return(
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/projects">Projects</a>
                </li>
-               <li className="page-collection" style={{marginBottom: '0px'}}>
+               //<li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/patents">Patents</a>
-               </li>
-               <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/exhibitions">Exhibitions</a>
+               </li>//
+               //<li className="page-collection" style={{marginBottom: '0px'}}>
+                  <a href="/exhibitions">Exhibitions</a>//
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/causes">Causes</a>
                </li>
-               <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/awards">Awards</a>
+               //<li className="page-collection" style={{marginBottom: '0px'}}>
+                  <a href="/awards">Awards</a>//
                </li>
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/giveaways">Giveaways</a>
