@@ -9,26 +9,26 @@ category: project
 
 #Projects
 
+<!--** under the [Dedalos](/project1) umbrella **-->
 
-[Dedalos](/project1)  
-
-[Rapidcov](/project2)  
+[Bionic](/project10)
 
 [Protosome](/project3)  
 
-[Levecore](/project4)
+[Levecore](/project4) 
 
-[Feous](/project5)
+[Pinch](/project2)  
 
-[Bettr Health](/project6)
+<!--[Feous](/project5)-->
 
-[Dotee](/project7)
+<!--[Bettr Health](/project6)-->
+
+<!--[Dotee](/project7)-->
 
 [GoMoki](/project8)
 
 [Chronos](/project9)
 
-[Phantom Robots](/project10)
 
 
 
