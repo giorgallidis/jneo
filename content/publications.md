@@ -9,13 +9,17 @@ category: publications
 
 # Publications
 
-[Heal Interactive Book](/project1)    
+[Heal Interactive Book](/publication1)    
 
 <a href="https://www.notion.so/Rapid-Prototyping-System-020149df896049a4b9ab05f868901b55">Rapid Prototyping System for Health Startups</a>
 
-<!--[Learning system](/project2)-->
+[Health Eating System](/publication2)
 
-<!-- [Health Recommender System](/project2) -->
+[Preventative Healthcare System](/publication3)
+
+[H.O.P.E](/publication4)
+
+<!--[Learning system](/project2)-->
 
 <!-- [Gene based nutrition](/project2) GenoPalate  -->
 
