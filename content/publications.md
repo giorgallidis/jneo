@@ -25,6 +25,7 @@ category: publications
 
 # Longevity Metas
 ** intermittently updated **
+*** thank you to ...., ....., ..... and ..... for reviewing and improving upon my metas.
 
 <a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity Known Variables </a>
 
@@ -34,19 +35,19 @@ category: publications
 
 Longevity & Nutrition
 
-<a href="">Longevity & Sleep </a>
+Longevity & Sleep
 
-<a href="">Longevity & The Microbiome </a>
+Longevity & The Microbiome
 
-<a href="">Longevity & Nutraceuticals</a>
+Longevity & Nutraceuticals
 
-<a href="">Longevity & Genetics </a>
+Longevity & Genetics
 
-<a href="">Longevity & Epigenetics </a>
+Longevity & Epigenetics
 
-<a href="">Longevity & Medical Interventions </a>
+Longevity & Medical Interventions
 
-<a href="">Longevity & Aesthetics </a>
+Longevity & Aesthetics
 
 
 <!--[Learning system](/project2)-->
