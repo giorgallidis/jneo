@@ -26,7 +26,18 @@ category: publications
 # Longevity Metas
 ** intermittently updated **
 
-<a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity Known Variables (A Meta analysis)</a>
+<a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity Known Variables </a>
+<a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity & Dietary Restriction </a>
+<a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity & Exercise </a>
+<a href="">Longevity & Nutrition </a>
+<a href="">Longevity & Sleep </a>
+<a href="">Longevity & The Microbiome </a>
+<a href="">Longevity & Nutraceuticals</a>
+<a href="">Longevity & Genetics </a>
+<a href="">Longevity & Epigenetics </a>
+<a href="">Longevity & Medical Interventions </a>
+<a href="">Longevity & Aesthetics </a>
+
 
 <!--[Learning system](/project2)-->
 
