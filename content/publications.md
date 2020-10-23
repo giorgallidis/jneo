@@ -32,7 +32,7 @@ category: publications
 
 <a href="https://www.notion.so/thejurgen/Longevity-Meta-1-Longevity-Known-Variables-b3450aad032a4f81b11b1a1e4928ebc7">Longevity & Exercise </a>
 
-<a href="">Longevity & Nutrition </a>
+Longevity & Nutrition
 
 <a href="">Longevity & Sleep </a>
 
