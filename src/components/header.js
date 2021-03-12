@@ -31,20 +31,8 @@ return(
              <li className="page-collection">
                 <a href="/projects">Projects</a>
              </li>
-             //<li className="page-collection">
-               <a href="/patents">Patents</a>
-             </li>//
-            //<li className="page-collection">
-               <a href="/exhibitions">Exhibitions</a>
-             </li>//
              <li className="page-collection">
-                <a href="/causes">Causes</a>
-             </li>
-             //<li className="page-collection">
                <a href="/awards">Awards</a>
-             </li>//
-             <li className="page-collection">
-                <a href="/giveaways">Giveaways</a>
              </li>
              <li className=" external-link">
                <a href="https://jurgen.substack.com/">Newsletter</a>
