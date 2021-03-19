@@ -34,9 +34,9 @@ const Frontpage = () => (
                   </div>
                   <div className="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_48_1424560397197_11109">
                      <div className="sqs-block-content">
-                        <pre><code><Emoji label="rocket" symbol="" /> I work at the intersection of health, software and hardware engineering to build products that have the potential to make life better and longer for humans. </code></pre>
-                        <pre><code><Emoji label="backpack" symbol="" /> I also like to also explore some of those same concepts in an artistic form. Im working on a project that uses real-time health data to create music. </code></pre>
-                             <pre><code><Emoji label="handwriting" symbol="" />  I support causes along the same lines that support the advancement and democratization of health around the world. </code></pre>
+                        <pre><code>I work at the intersection of health, software and hardware engineering to build products that have the potential to make life better and longer for humans. </code></pre>
+                        <pre><code>I also like to also explore some of those same concepts in an artistic form. Im working on a project that uses real-time health data to create music. </code></pre>
+                             <pre><code>I support causes along the same lines that support the advancement and democratization of health around the world. </code></pre>
                         <pre><code><Emoji label="statue of liberty" symbol="📥" />  Give me a shout if you are interested in working with me on a project: <a href="https://www.linkedin.com/in/george-georgallides">LinkedIn</a> </code></pre>
                      </div>
                   </div>
