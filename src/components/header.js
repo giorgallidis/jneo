@@ -25,15 +25,7 @@ return(
             <li className="page-collection">
                 <a href="/essays">Essays</a>
              </li>
-            <li className="page-collection">
-                <a href="/publications">Publications</a>
-             </li>
-             <li className="page-collection">
-                <a href="/projects">Projects</a>
-             </li>
-             <li className="page-collection">
-               <a href="/awards">Awards</a>
-             </li>
+           
              <li className=" external-link">
                <a href="https://jurgen.substack.com/">Newsletter</a>
             </li>
@@ -64,27 +56,7 @@ return(
                <li className="page-collection" style={{marginBottom: '0px'}}>
                   <a href="/essays">Essays</a>
                </li>
-               <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/publications">Publications</a>
-               </li>
-               <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/projects">Projects</a>
-               </li>
-               //<li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/patents">Patents</a>
-               </li>//
-               //<li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/exhibitions">Exhibitions</a>//
-               </li>
-               <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/causes">Causes</a>
-               </li>
-               //<li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/awards">Awards</a>//
-               </li>
-               <li className="page-collection" style={{marginBottom: '0px'}}>
-                  <a href="/giveaways">Giveaways</a>
-               </li>
+              
             </ul>
          </nav>
          <nav id="mainNavigation" className="main-nav dropdown-click desktop-nav">
