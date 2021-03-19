@@ -34,12 +34,10 @@ const Frontpage = () => (
                   </div>
                   <div className="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_48_1424560397197_11109">
                      <div className="sqs-block-content">
-                        <pre><code><Emoji label="rocket" symbol="🚀" /> I work at the intersection of bio engineering, nanotechnology and data science to build things that have the potential to make life better and longer for humans. Check out some my <a href="/projects">projects</a>. </code></pre>
-                        <pre><code><Emoji label="backpack" symbol="🎨" /> I like to also explore those same concepts to create art that thought and discussion. Check out my <a href="/exhibitions">exhibitions</a>. </code></pre>
-                        <pre><code><Emoji label="moneybag" symbol="🔬" />  As a result of the research I do for the above, I occassionaly publish my findings in different formats with a focus on health, product building and learning. You can read short blurps about that on my <a href="https://www.twitter.com/thejurgen">Twitter</a>, in my longer form <a href="/essays">essays</a> or in my occassional even longer form explorations in <a href="/publications">Publications</a>. </code></pre>
-                        // <pre><code><Emoji label="one hundred" symbol="📕" />  I've been lucky to have collaborated with some amazing minds in their respective industries on a few <a href="/publications">Publications</a>. </code></pre> //
-                        <pre><code><Emoji label="handwriting" symbol="🎗️" />  I support <a href="/causes">causes</a> along the same lines that support the improvement of life and the advancement of health initiatives around the world among other things. </code></pre>
-                        <pre><code><Emoji label="statue of liberty" symbol="📥" />  Give me a shout if you are interested in working with me on a project: 103 101 111 114 103 97 108 108 64 112 109 46 109 101. You can also sign up for my <a href="https://jurgen.substack.com">Newsletter</a> to stay up to date when I post something new. </code></pre>
+                        <pre><code><Emoji label="rocket" symbol="" /> I work at the intersection of health, software and hardware engineering to build products that have the potential to make life better and longer for humans. </code></pre>
+                        <pre><code><Emoji label="backpack" symbol="" /> I also like to also explore some of those same concepts in an artistic form. Im working on a project that uses real-time health data to create music. </code></pre>
+                             <pre><code><Emoji label="handwriting" symbol="" />  I support causes along the same lines that support the advancement and democratization of health around the world. </code></pre>
+                        <pre><code><Emoji label="statue of liberty" symbol="📥" />  Give me a shout if you are interested in working with me on a project: <a href="https://www.linkedin.com/in/george-georgallides">LinkedIn</a> </code></pre>
                      </div>
                   </div>
                </div>
