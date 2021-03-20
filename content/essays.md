@@ -17,7 +17,7 @@ category: essay
 
 [Black Markets in Health](/essay5)
 
-[Are we inherently evil?](/essay4)  
+[Are we inherently evil?](/essay2)  
 
 [The case for continuous temperature monitoring](/essay8)
 
@@ -25,9 +25,8 @@ category: essay
 
 [Longevity known variables](/essay7)
 
-[Longevity Variable: Dietary Restriction](/essay9)
+[Longevity Variable: Dietary Restriction](/essay11)
 
-[Longevity Variable: Exercise](/essay11)
 
 
 
