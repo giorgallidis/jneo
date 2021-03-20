@@ -1,11 +1,18 @@
+---
+title: 'Black Markets in Health'
+date: 2020-02-25T12:18:00.000Z
+description: What drives people to buy, trade or even donate medical supplies in black markets
+author: Jurgen
+featuredImage: ../../images/img_2.jpg
+category: essay
+---
+
+## Black Markets in Health 
+---
 
 Altruism and a lack of access and affordability are three reasons why people with chronic illnesses are turning to the "black market" for medicines and supplies, new research shows. Scientists at University of Utah Health and University of Colorado ran surveys to understand why individuals are looking beyond pharmacies and medical equipment companies to meet essential needs. The reasons listed were many but centered on a single theme: traditional healthcare is failing them.
 
-Instead, people with chronic conditions, like diabetes, are turning to online resources that are more typically associated with gift shopping. They are scrolling through craigslist, browsing for second-hand goods on eBay and searching social media message boards. Rather than toys and sweaters, they are looking for leads to medications and supplies like glucose strips for measuring blood sugar, and insulin, a drug they must take regularly to keep their blood sugar in control.
-
-"People have to make a decision. Do they want to maintain their health? And if so, what are the medications and tools that they need in order to stay healthy?" explains Michelle Litchman, Ph.D., FNP-BC, lead author of the study and a nurse practitioner and researcher at the College of Nursing at U of U Health. "In some cases, people have had to go to extreme measures and find a network that can supply their healthcare needs."
-
-Results from the study were published online in the Journal of Diabetes Science and Technology.
+People with chronic conditions, including conditions as commonplace as diabetes, are equally likely to turn to online resources like craigslist, eBay and social media message boards to find medications and supplies like glucose strips for measuring blood sugar, and insulin, a drug they must take regularly to keep their blood sugar in control. Think about it. People have to make a decision. Do they want to maintain their health? And if so, what are the medications and tools that they need in order to stay healthy? If they can't get it legally or within their budget, then survival instinct kicks in and people have to find a network that can supply their healthcare needs.
 
 An online survey of 159 people with diabetes and their caregivers showed the group had participated in different types of underground exchange activities, from donating (56%) to receiving donated goods (34%) to trading (24%), borrowing (22%) and purchasing (15%). Many had taken part in more than one kind of transaction.
 
