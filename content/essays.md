@@ -9,19 +9,17 @@ category: essay
 
 # Essays
 
-<!--[The Autotelic Founder](/essay1) -->
+[The Autotelic Founder](/essay1)
 
-<!--[Do-ism: Process driven planning](/essay2)  -->
+[Do-ism: Process driven planning](/essay2)  
 
 [How to End this (and future) pandemic(s)](/essay3)  
 
 [Black Markets in Health](/essay5)
 
-[Are we inherently evil?](/essay2)  
+[Are we inherently evil?](/essay4)  
 
 [The case for continuous temperature monitoring](/essay8)
-
-[Life expectancy in the 21st century](/essay10)
 
 [Longevity known variables](/essay7)
 
