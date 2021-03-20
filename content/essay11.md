@@ -1,3 +1,14 @@
+---
+title: 'Longevity Variable: Dietary Restriction'
+date: 2020-02-25T12:18:00.000Z
+description: Are we inherently evil? 
+author: Jurgen
+featuredImage: ../../images/img_2.jpg
+category: essay
+---
+
+## Longevity Variable: Dietary Restriction 
+---
 
 ## **TL;DR**
 
