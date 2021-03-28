@@ -11,8 +11,6 @@ category: essay
 
 [The Autotelic Founder](/essay1)
 
-[Do-ism: Process driven planning](/essay2)  
-
 [How to End this (and future) pandemic(s)](/essay3)  
 
 [Black Markets in Health](/essay5)
