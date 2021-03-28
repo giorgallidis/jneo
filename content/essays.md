@@ -25,6 +25,8 @@ category: essay
 
 [Longevity Variable: Dietary Restriction](/essay11)
 
+[How to Build a Health Startup](https://www.notion.so/thejurgen/How-to-build-a-health-startup-020149df896049a4b9ab05f868901b55)
+
 
 
 
